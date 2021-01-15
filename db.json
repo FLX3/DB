@@ -7,10 +7,10 @@
            "moc": 230,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": "1200",
+            "weekend": "2000",
+            "tydzien": "7000", 
+            "miesiac": "20000"
            }],
            "zdjecie": "img\/gallardo.png"
        },
