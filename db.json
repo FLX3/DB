@@ -37,7 +37,7 @@
            "model": "AMG",
            "rok_produkcji": 1987,
            "moc": 385,
-           "silnik": 6.0, 
+           "silnik": "6.0", 
            "ilosc_miejsc": 4,
            "cena": [
            {
