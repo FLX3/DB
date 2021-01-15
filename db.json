@@ -5,7 +5,7 @@
            "model": "Gallardo LP",
            "rok_produkcji": 2011,
            "moc": 562,
-           "silnik": 5.2, 
+           "silnik": "5.2", 
            "ilosc_miejsc": 2,
            "cena": [
            {
@@ -21,7 +21,7 @@
            "model": "R8",
            "rok_produkcji": 2013,
            "moc": 610,
-           "silnik": 5.2, 
+           "silnik": "5.2", 
            "ilosc_miejsc": 2,
            "cena": [
            {
@@ -53,7 +53,7 @@
            "model": "Stinger",
            "rok_produkcji": 2018,
            "moc": 365,
-           "silnik": 3.3, 
+           "silnik": "3.3", 
            "ilosc_miejsc": 5,
            "cena": [
            {
@@ -69,7 +69,7 @@
            "model": "Cayman GT4",
            "rok_produkcji": 2016,
            "moc": 385,
-           "silnik": 3.8, 
+           "silnik": "3.8", 
            "ilosc_miejsc": 2,
            "cena": [
            {
@@ -86,7 +86,7 @@
            "model": "GT-R",
            "rok_produkcji": 2012,
            "moc": 500,
-           "silnik": 3.8, 
+           "silnik": "3.8", 
            "ilosc_miejsc": 4,
            "cena": [
            {
@@ -102,7 +102,7 @@
            "model": "Focus RS",
            "rok_produkcji": 2017,
            "moc": 350,
-           "silnik": 2.3, 
+           "silnik": "2.3", 
            "ilosc_miejsc": 5,
            "cena": [
            {
@@ -118,7 +118,7 @@
            "model": "Camaro ZL1",
            "rok_produkcji": 2017,
            "moc": 650,
-           "silnik": 6.2, 
+           "silnik": "6.2", 
            "ilosc_miejsc": 4,
            "cena": [
            {
@@ -134,7 +134,7 @@
            "model": "M4",
            "rok_produkcji": 2014,
            "moc": 431,
-           "silnik": 3.0, 
+           "silnik": "3.0", 
            "ilosc_miejsc": 4,
            "cena": [
            {
@@ -151,7 +151,7 @@
            "model": "RS7 Sportback",
            "rok_produkcji": 2013,
            "moc": 650,
-           "silnik": 4.0, 
+           "silnik": "4.0", 
            "ilosc_miejsc": 4,
            "cena": [
            {
