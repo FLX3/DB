@@ -7,13 +7,13 @@
            "moc": 562,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "cena": [
+           "cena": 
            {
             "dzien": 1200,
             "weekend": 2000,
             "tydzien": 7000, 
             "miesiac": 20000
-           }],
+           },
            "zdjecie": "img\/gallardo.png"
        },
        {
@@ -23,13 +23,13 @@
            "moc": 610,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "cena": [
+           "cena": 
            {
             "dzien": 1300,
             "weekend": 2200,
             "tydzien": 8000, 
             "miesiac": 23000
-           }],
+           },
            "zdjecie": "img\/r8.png"
        },
        {
@@ -39,13 +39,13 @@
            "moc": 385,
            "silnik": "6.0", 
            "ilosc_miejsc": 4,
-           "cena": [
+           "cena": 
            {
             "dzien": 800,
             "weekend": 1300,
             "tydzien": 6000, 
             "miesiac": 18000
-           }],
+           },
            "zdjecie": "img\/amg.png"
        },
        {
@@ -55,13 +55,13 @@
            "moc": 365,
            "silnik": "3.3", 
            "ilosc_miejsc": 5,
-           "cena": [
+           "cena": 
            {
             "dzien": 600,
             "weekend": 1000,
             "tydzien": 5000, 
             "miesiac": 15000
-           }],
+           },
            "zdjecie": "img\/stinger.png"
        },
        {
@@ -71,13 +71,13 @@
            "moc": 385,
            "silnik": "3.8", 
            "ilosc_miejsc": 2,
-           "cena": [
+           "cena": 
            {
             "dzien": 900,
             "weekend": 1500,
             "tydzien": 6500, 
             "miesiac": 17000
-           }],
+           },
            "zdjecie": "img\/cayman.png"
        },
          
@@ -88,13 +88,13 @@
            "moc": 500,
            "silnik": "3.8", 
            "ilosc_miejsc": 4,
-           "cena": [
+           "cena": 
            {
             "dzien": 850,
             "weekend": 1400,
             "tydzien": 6000, 
             "miesiac": 16000
-           }],
+           },
            "zdjecie": "img\/gtr.png"
        },
          {
@@ -104,13 +104,13 @@
            "moc": 350,
            "silnik": "2.3", 
            "ilosc_miejsc": 5,
-           "cena": [
+           "cena": 
            {
             "dzien": 400,
             "weekend": 700,
             "tydzien": 2500, 
             "miesiac": 9000
-           }],
+           },
            "zdjecie": "img\/rs.png"
        },
        {
@@ -120,13 +120,13 @@
            "moc": 650,
            "silnik": "6.2", 
            "ilosc_miejsc": 4,
-           "cena": [
+           "cena": 
            {
             "dzien": 800,
             "weekend": 1500,
             "tydzien": 5400, 
             "miesiac": 15000
-           }],
+           },
            "zdjecie": "img\/camaro.png"
        },
          {
@@ -136,13 +136,13 @@
            "moc": 431,
            "silnik": "3.0", 
            "ilosc_miejsc": 4,
-           "cena": [
+           "cena": 
            {
             "dzien": 600,
             "weekend": 1000,
             "tydzien": 4500, 
             "miesiac": 14000
-           }],
+           },
            "zdjecie": "img\/m4.png"
        },
          
@@ -153,13 +153,13 @@
            "moc": 650,
            "silnik": "4.0", 
            "ilosc_miejsc": 4,
-           "cena": [
+           "cena": 
            {
             "dzien": 700,
             "weekend": 1400,
             "tydzien": 4600, 
             "miesiac": 13500
-           }],
+           },
            "zdjecie": "img\/rs7.png"
        }
          
