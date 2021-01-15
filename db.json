@@ -3,70 +3,80 @@
        {
            "marka": "Lamborghini",
            "model": "Gallardo LP",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2011,
+           "moc": 562,
+           "silnik": 5.2, 
+           "ilosc_miejsc": 2,
            "cena": [
            {
-            "dzien": "1200",
-            "weekend": "2000",
-            "tydzien": "7000", 
-            "miesiac": "20000"
+            "dzien": 1200,
+            "weekend": 2000,
+            "tydzien": 7000, 
+            "miesiac": 20000
            }],
            "zdjecie": "img\/gallardo.png"
        },
        {
            "marka": "Audi",
            "model": "R8",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2013,
+           "moc": 610,
+           "silnik": 5.2, 
+           "ilosc_miejsc": 2,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 1300,
+            "weekend": 2200,
+            "tydzien": 8000, 
+            "miesiac": 23000
            }],
            "zdjecie": "img\/r8.png"
        },
        {
            "marka": "Mercedes-Benz",
            "model": "AMG",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 1987,
+           "moc": 385,
+           "silnik": 6.0, 
+           "ilosc_miejsc": 4,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 800,
+            "weekend": 1300,
+            "tydzien": 6000, 
+            "miesiac": 18000
            }],
            "zdjecie": "img\/amg.png"
        },
        {
            "marka": "Kia",
            "model": "Stinger",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2018,
+           "moc": 365,
+           "silnik": 3.3, 
+           "ilosc_miejsc": 5,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 600,
+            "weekend": 1000,
+            "tydzien": 5000, 
+            "miesiac": 15000
            }],
            "zdjecie": "img\/stinger.png"
        },
        {
            "marka": "Porsche",
            "model": "Cayman GT4",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2016,
+           "moc": 385,
+           "silnik": 3.8, 
+           "ilosc_miejsc": 2,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 900,
+            "weekend": 1500,
+            "tydzien": 6500, 
+            "miesiac": 17000
            }],
            "zdjecie": "img\/cayman.png"
        },
@@ -74,56 +84,64 @@
          {
            "marka": "Nissan",
            "model": "GT-R",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2012,
+           "moc": 500,
+           "silnik": 3.8, 
+           "ilosc_miejsc": 4,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 850,
+            "weekend": 1400,
+            "tydzien": 6000, 
+            "miesiac": 16000
            }],
            "zdjecie": "img\/gtr.png"
        },
          {
            "marka": "Ford",
            "model": "Focus RS",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2017,
+           "moc": 350,
+           "silnik": 2.3, 
+           "ilosc_miejsc": 5,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 400,
+            "weekend": 700,
+            "tydzien": 2500, 
+            "miesiac": 9000
            }],
            "zdjecie": "img\/rs.png"
        },
        {
            "marka": "Chevrolet",
            "model": "Camaro ZL1",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2017,
+           "moc": 650,
+           "silnik": 6.2, 
+           "ilosc_miejsc": 4,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 800,
+            "weekend": 1500,
+            "tydzien": 5400, 
+            "miesiac": 15000
            }],
            "zdjecie": "img\/camaro.png"
        },
          {
            "marka": "BMW",
            "model": "M4",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2014,
+           "moc": 431,
+           "silnik": 3.0, 
+           "ilosc_miejsc": 4,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 600,
+            "weekend": 1000,
+            "tydzien": 4500, 
+            "miesiac": 14000
            }],
            "zdjecie": "img\/m4.png"
        },
@@ -131,14 +149,16 @@
          {
            "marka": "Audi",
            "model": "RS7 Sportback",
-           "rok_produkcji": 2010,
-           "moc": 230,
+           "rok_produkcji": 2013,
+           "moc": 650,
+           "silnik": 4.0, 
+           "ilosc_miejsc": 4,
            "cena": [
            {
-            "dzien": "The Grudge",
-            "weekend": "The Grudge",
-            "tydzien": "The Grudge", 
-            "miesiac": "8:36"
+            "dzien": 700,
+            "weekend": 1400,
+            "tydzien": 4600, 
+            "miesiac": 13500
            }],
            "zdjecie": "img\/rs7.png"
        }
