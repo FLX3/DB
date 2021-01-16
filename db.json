@@ -30,7 +30,7 @@
             "tydzien": 8000, 
             "miesiac": 23000
            },
-           "zdjecie": "img\/r8.png"
+           "zdjecie": "img\/r8.webp"
        },
        {
            "marka": "Mercedes-Benz",
@@ -46,7 +46,7 @@
             "tydzien": 6000, 
             "miesiac": 18000
            },
-           "zdjecie": "img\/amg.png"
+           "zdjecie": "img\/amg.webp"
        },
        {
            "marka": "Kia",
@@ -62,7 +62,7 @@
             "tydzien": 5000, 
             "miesiac": 15000
            },
-           "zdjecie": "img\/stinger.png"
+           "zdjecie": "img\/stinger.webp"
        },
        {
            "marka": "Porsche",
@@ -78,7 +78,7 @@
             "tydzien": 6500, 
             "miesiac": 17000
            },
-           "zdjecie": "img\/cayman.png"
+           "zdjecie": "img\/cayman.webp"
        },
          
          {
@@ -95,7 +95,7 @@
             "tydzien": 6000, 
             "miesiac": 16000
            },
-           "zdjecie": "img\/gtr.png"
+           "zdjecie": "img\/gtr.webp"
        },
          {
            "marka": "Ford",
@@ -111,7 +111,7 @@
             "tydzien": 2500, 
             "miesiac": 9000
            },
-           "zdjecie": "img\/rs.png"
+           "zdjecie": "img\/rs.webp"
        },
        {
            "marka": "Chevrolet",
@@ -127,7 +127,7 @@
             "tydzien": 5400, 
             "miesiac": 15000
            },
-           "zdjecie": "img\/camaro.png"
+           "zdjecie": "img\/camaro.webp"
        },
          {
            "marka": "BMW",
@@ -143,7 +143,7 @@
             "tydzien": 4500, 
             "miesiac": 14000
            },
-           "zdjecie": "img\/m4.png"
+           "zdjecie": "img\/m4.webp"
        },
          
          {
@@ -160,7 +160,7 @@
             "tydzien": 4600, 
             "miesiac": 13500
            },
-           "zdjecie": "img\/rs7.png"
+           "zdjecie": "img\/rs7.webp"
        }
          
    ]
