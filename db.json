@@ -7,7 +7,7 @@
            "moc": 562,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -16,7 +16,7 @@
             "tydzien": 7000, 
             "miesiac": 20000
            },
-           "zdjecie": "https://raw.githubusercontent.com/FLX3/PRJ/main/img/camaro.webp?token=AR7HA6UDVGWWFZWOA2PTI2LABGN6K"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/gallardo.webp"
        },
        {
            "marka": "Audi",
@@ -25,7 +25,7 @@
            "moc": 610,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -34,7 +34,7 @@
             "tydzien": 8000, 
             "miesiac": 23000
            },
-           "zdjecie": "img\/r8.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/r8.webp"
        },
        {
            "marka": "Mercedes-Benz",
@@ -52,7 +52,7 @@
             "tydzien": 6000, 
             "miesiac": 18000
            },
-           "zdjecie": "img\/amg.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/amg.webp"
        },
        {
            "marka": "Kia",
@@ -70,7 +70,7 @@
             "tydzien": 5000, 
             "miesiac": 15000
            },
-           "zdjecie": "img\/stinger.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/stinger.webp"
        },
        {
            "marka": "Porsche",
@@ -79,7 +79,7 @@
            "moc": 385,
            "silnik": "3.8", 
            "ilosc_miejsc": 2,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -88,7 +88,7 @@
             "tydzien": 6500, 
             "miesiac": 17000
            },
-           "zdjecie": "img\/cayman.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/cayman.webp"
        },
          
          {
@@ -98,7 +98,7 @@
            "moc": 500,
            "silnik": "3.8", 
            "ilosc_miejsc": 4,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -107,7 +107,7 @@
             "tydzien": 6000, 
             "miesiac": 16000
            },
-           "zdjecie": "img\/gtr.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/gtr.webp"
        },
          {
            "marka": "Ford",
@@ -116,7 +116,7 @@
            "moc": 350,
            "silnik": "2.3", 
            "ilosc_miejsc": 5,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -125,7 +125,7 @@
             "tydzien": 2500, 
             "miesiac": 9000
            },
-           "zdjecie": "img\/rs.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/rs.webp"
        },
        {
            "marka": "Chevrolet",
@@ -143,7 +143,7 @@
             "tydzien": 5400, 
             "miesiac": 15000
            },
-           "zdjecie": "img\/camaro.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/camaro.webp"
        },
          {
            "marka": "BMW",
@@ -161,7 +161,7 @@
             "tydzien": 4500, 
             "miesiac": 14000
            },
-           "zdjecie": "img\/m4.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/m4.webp"
        },
          
          {
@@ -171,7 +171,7 @@
            "moc": 650,
            "silnik": "4.0", 
            "ilosc_miejsc": 4,
-           "napęd": "RWD",
+           "napęd": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -180,7 +180,7 @@
             "tydzien": 4600, 
             "miesiac": 13500
            },
-           "zdjecie": "img\/rs7.webp"
+           "zdjecie": "https://raw.githubusercontent.com/FLX3/DB/main/img/rs7.webp"
        }
          
    ]
