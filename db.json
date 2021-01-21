@@ -7,6 +7,8 @@
            "moc": 562,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 1200,
@@ -23,6 +25,8 @@
            "moc": 610,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 1300,
@@ -39,6 +43,8 @@
            "moc": 385,
            "silnik": "6.0", 
            "ilosc_miejsc": 4,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 800,
@@ -55,6 +61,8 @@
            "moc": 365,
            "silnik": "3.3", 
            "ilosc_miejsc": 5,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 600,
@@ -71,6 +79,8 @@
            "moc": 385,
            "silnik": "3.8", 
            "ilosc_miejsc": 2,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 900,
@@ -88,6 +98,8 @@
            "moc": 500,
            "silnik": "3.8", 
            "ilosc_miejsc": 4,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 850,
@@ -104,6 +116,8 @@
            "moc": 350,
            "silnik": "2.3", 
            "ilosc_miejsc": 5,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 400,
@@ -120,6 +134,8 @@
            "moc": 650,
            "silnik": "6.2", 
            "ilosc_miejsc": 4,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 800,
@@ -136,6 +152,8 @@
            "moc": 431,
            "silnik": "3.0", 
            "ilosc_miejsc": 4,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 600,
@@ -153,6 +171,8 @@
            "moc": 650,
            "silnik": "4.0", 
            "ilosc_miejsc": 4,
+           "napęd": "RWD",
+           "rodzaj_paliwa": "benzyna",
            "cena": 
            {
             "dzien": 700,
