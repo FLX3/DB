@@ -7,7 +7,7 @@
            "moc": 562,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -25,7 +25,7 @@
            "moc": 610,
            "silnik": "5.2", 
            "ilosc_miejsc": 2,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -43,7 +43,7 @@
            "moc": 385,
            "silnik": "6.0", 
            "ilosc_miejsc": 4,
-           "napęd": "RWD",
+           "naped": "RWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -61,7 +61,7 @@
            "moc": 365,
            "silnik": "3.3", 
            "ilosc_miejsc": 5,
-           "napęd": "RWD",
+           "naped": "RWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -79,7 +79,7 @@
            "moc": 385,
            "silnik": "3.8", 
            "ilosc_miejsc": 2,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -98,7 +98,7 @@
            "moc": 500,
            "silnik": "3.8", 
            "ilosc_miejsc": 4,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -116,7 +116,7 @@
            "moc": 350,
            "silnik": "2.3", 
            "ilosc_miejsc": 5,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -134,7 +134,7 @@
            "moc": 650,
            "silnik": "6.2", 
            "ilosc_miejsc": 4,
-           "napęd": "RWD",
+           "naped": "RWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -152,7 +152,7 @@
            "moc": 431,
            "silnik": "3.0", 
            "ilosc_miejsc": 4,
-           "napęd": "RWD",
+           "naped": "RWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
@@ -171,7 +171,7 @@
            "moc": 650,
            "silnik": "4.0", 
            "ilosc_miejsc": 4,
-           "napęd": "AWD",
+           "naped": "AWD",
            "rodzaj_paliwa": "benzyna",
            "cena": 
            {
